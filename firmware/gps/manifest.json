@@ -1,0 +1,24 @@
+{
+  "name": "gps",
+  "version": "1.1.6",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "ota": {
+        "md5": "26a419806d6adf306e720f631fa2dff3",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/gps-v1.1.6/gps.ota.bin",
+        "summary": "Rename devices: -controller and -display names, one heater config",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/gps-v1.1.6"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.9.1",
+    "esp_idf_version": "5.5.5",
+    "build_time": "2026-10-27 17:45:05 -0700",
+    "config_hash": 2389806785,
+    "git_sha": "159d229",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "light-controller",
+  "version": "1.1.6",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "md5": "9e2aabcc00344dfa9acbbf0890784972",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/light-controller-v1.1.6/light-controller.ota.bin",
+        "summary": "First release",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/light-controller-v1.1.6"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.9.1",
+    "esp_idf_version": "5.5.5",
+    "build_time": "2026-10-27 17:50:38 -0700",
+    "config_hash": 4069597638,
+    "git_sha": "25fe3b4",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

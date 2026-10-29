@@ -1,0 +1,24 @@
+{
+  "name": "dehumidifier-controller",
+  "version": "1.2.1",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "e67a9354eec4a9be00f600e74bce16e8",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/dehumidifier-controller-v1.2.1/dehumidifier-controller.ota.bin",
+        "summary": "First release",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/dehumidifier-controller-v1.2.1"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.1",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-10-29 08:43:06 -0700",
+    "config_hash": 2812303660,
+    "git_sha": "c581958",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}
