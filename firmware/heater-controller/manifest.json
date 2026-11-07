@@ -1,0 +1,24 @@
+{
+  "name": "heater-controller",
+  "version": "4.0.6",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "fe5d5e0d58bed8cd3bdcfa6e9c48996e",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/heater-controller-v4.0.6/heater-controller.ota.bin",
+        "summary": "Size tablet Wi-Fi setup for the physical display; Fix fridge status layout and Wi-Fi setup",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/heater-controller-v4.0.6"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-06 17:58:13 -0800",
+    "config_hash": 717461190,
+    "git_sha": "eee3b7c",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

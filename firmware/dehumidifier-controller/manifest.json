@@ -1,0 +1,24 @@
+{
+  "name": "dehumidifier-controller",
+  "version": "2.0.5",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "337b9ea4b41d78e7292f2d55849d310a",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/dehumidifier-controller-v2.0.5/dehumidifier-controller.ota.bin",
+        "summary": "Size tablet Wi-Fi setup for the physical display; Fix fridge status layout and Wi-Fi setup; Isolate dehumidifier PID autotuning",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/dehumidifier-controller-v2.0.5"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-06 17:45:45 -0800",
+    "config_hash": 1091842881,
+    "git_sha": "eee3b7c",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

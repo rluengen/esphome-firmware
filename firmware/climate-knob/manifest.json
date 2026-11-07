@@ -1,0 +1,24 @@
+{
+  "name": "climate-knob",
+  "version": "3.0.3",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "18186716a9e0161ad1d34e77df0071de",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/climate-knob-v3.0.3/climate-knob.ota.bin",
+        "summary": "Size tablet Wi-Fi setup for the physical display; Fix fridge status layout and Wi-Fi setup",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/climate-knob-v3.0.3"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-06 17:29:27 -0800",
+    "config_hash": 125506636,
+    "git_sha": "eee3b7c",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

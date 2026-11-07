@@ -1,0 +1,24 @@
+{
+  "name": "light-controller",
+  "version": "1.1.10",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "md5": "a1ec884a299f844e5a6d1846f456c9cc",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/light-controller-v1.1.10/light-controller.ota.bin",
+        "summary": "Size tablet Wi-Fi setup for the physical display; Fix fridge status layout and Wi-Fi setup",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/light-controller-v1.1.10"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-06 18:02:48 -0800",
+    "config_hash": 1041631823,
+    "git_sha": "eee3b7c",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

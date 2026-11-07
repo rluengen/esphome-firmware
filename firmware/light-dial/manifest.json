@@ -1,0 +1,24 @@
+{
+  "name": "light-dial",
+  "version": "1.0.49",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "be149d4569c07654e19f27a6e50d2601",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/light-dial-v1.0.49/light-dial.ota.bin",
+        "summary": "Size tablet Wi-Fi setup for the physical display; Fix fridge status layout and Wi-Fi setup",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/light-dial-v1.0.49"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-06 18:05:49 -0800",
+    "config_hash": 626917091,
+    "git_sha": "eee3b7c",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}
