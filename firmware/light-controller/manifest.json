@@ -1,0 +1,24 @@
+{
+  "name": "light-controller",
+  "version": "1.1.11",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "md5": "6ef66cfc777db242e8343cb5e8f808c4",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/light-controller-v1.1.11/light-controller.ota.bin",
+        "summary": "Fix exterior rocker click timing; Improve climate knob coordination and status",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/light-controller-v1.1.11"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-09 21:18:58 -0800",
+    "config_hash": 2195041804,
+    "git_sha": "036a34e",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

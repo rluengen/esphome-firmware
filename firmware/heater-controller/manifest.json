@@ -1,0 +1,24 @@
+{
+  "name": "heater-controller",
+  "version": "4.0.7",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "598db40a9e0336c5fb9b1a2532c95a7c",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/heater-controller-v4.0.7/heater-controller.ota.bin",
+        "summary": "Improve climate knob coordination and status",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/heater-controller-v4.0.7"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-09 21:15:06 -0800",
+    "config_hash": 747579027,
+    "git_sha": "036a34e",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

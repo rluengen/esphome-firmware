@@ -1,0 +1,24 @@
+{
+  "name": "fridge-knob",
+  "version": "1.0.4",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "1f6af11aa8ecaaf6475e681da26c6c4e",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/fridge-knob-v1.0.4/fridge-knob.ota.bin",
+        "summary": "Add shared local display and Wi-Fi settings; Add fridge knob interface and water daughter board designs",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/fridge-knob-v1.0.4"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-09 21:08:21 -0800",
+    "config_hash": 2439321470,
+    "git_sha": "036a34e",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

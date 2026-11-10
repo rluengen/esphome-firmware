@@ -1,0 +1,24 @@
+{
+  "name": "climate-knob",
+  "version": "3.0.4",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "ae0434d021b1eaa72fca29d4ba3e682a",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/climate-knob-v3.0.4/climate-knob.ota.bin",
+        "summary": "Add shared local display and Wi-Fi settings; Improve climate knob coordination and status",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/climate-knob-v3.0.4"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-09 20:50:20 -0800",
+    "config_hash": 2051276315,
+    "git_sha": "036a34e",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

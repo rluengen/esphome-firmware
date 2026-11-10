@@ -1,0 +1,24 @@
+{
+  "name": "light-dial",
+  "version": "1.0.50",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "fbee58e0d4994f69b0a28cee9c66a3e6",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/light-dial-v1.0.50/light-dial.ota.bin",
+        "summary": "Add shared local display and Wi-Fi settings; Improve climate knob coordination and status",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/light-dial-v1.0.50"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-09 21:23:58 -0800",
+    "config_hash": 3807569708,
+    "git_sha": "036a34e",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

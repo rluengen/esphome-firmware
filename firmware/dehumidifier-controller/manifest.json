@@ -1,0 +1,24 @@
+{
+  "name": "dehumidifier-controller",
+  "version": "2.0.6",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "b0a3958b1c4846b3d3c87f44b45bdf99",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/dehumidifier-controller-v2.0.6/dehumidifier-controller.ota.bin",
+        "summary": "Improve climate knob coordination and status",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/dehumidifier-controller-v2.0.6"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-09 21:03:49 -0800",
+    "config_hash": 2124283424,
+    "git_sha": "036a34e",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}
