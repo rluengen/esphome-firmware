@@ -1,0 +1,24 @@
+{
+  "name": "ac-touchscreen",
+  "version": "1.0.2",
+  "builds": [
+    {
+      "chipFamily": "ESP32-P4",
+      "ota": {
+        "md5": "b7dd1ad5cc4c2c78df4f32287eb68d9c",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/ac-touchscreen-v1.0.2/ac-touchscreen.ota.bin",
+        "summary": "First release",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/ac-touchscreen-v1.0.2"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-16 07:46:03 -0800",
+    "config_hash": 295519585,
+    "git_sha": "37ac177",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "dehumidifier-controller",
+  "version": "2.0.7",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "0298cc71f779128d157c60a191c7c924",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/dehumidifier-controller-v2.0.7/dehumidifier-controller.ota.bin",
+        "summary": "Give every Wi-Fi screen the icon footer and panel sizing",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/dehumidifier-controller-v2.0.7"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-16 18:41:57 -0800",
+    "config_hash": 4039119299,
+    "git_sha": "09111cb",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

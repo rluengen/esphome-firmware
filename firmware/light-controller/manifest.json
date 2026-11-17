@@ -1,0 +1,24 @@
+{
+  "name": "light-controller",
+  "version": "1.1.12",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "md5": "b150f519b447e80b840c8dfdd3184aec",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/light-controller-v1.1.12/light-controller.ota.bin",
+        "summary": "Give every Wi-Fi screen the icon footer and panel sizing",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/light-controller-v1.1.12"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-16 19:09:40 -0800",
+    "config_hash": 2177124474,
+    "git_sha": "09111cb",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

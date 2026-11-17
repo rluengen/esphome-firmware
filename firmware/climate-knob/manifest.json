@@ -1,0 +1,24 @@
+{
+  "name": "climate-knob",
+  "version": "3.0.5",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "189d4ac598ad955e3fcb3524ce1e0501",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/climate-knob-v3.0.5/climate-knob.ota.bin",
+        "summary": "Simplify touchscreen settings and automate demo C6 updates; Give every Wi-Fi screen the icon footer and panel sizing",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/climate-knob-v3.0.5"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-16 18:02:09 -0800",
+    "config_hash": 3906475975,
+    "git_sha": "09111cb",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

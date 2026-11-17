@@ -1,0 +1,24 @@
+{
+  "name": "gps",
+  "version": "1.1.10",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "ota": {
+        "md5": "84ebbc441cd66b3f80d088012b59f5a0",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/gps-v1.1.10/gps.ota.bin",
+        "summary": "Give every Wi-Fi screen the icon footer and panel sizing",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/gps-v1.1.10"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-16 19:03:34 -0800",
+    "config_hash": 2340679750,
+    "git_sha": "09111cb",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}

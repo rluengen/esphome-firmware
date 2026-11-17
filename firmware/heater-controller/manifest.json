@@ -1,0 +1,24 @@
+{
+  "name": "heater-controller",
+  "version": "4.0.8",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "ota": {
+        "md5": "0fdf36f0992390cb715d405b11e8e4cd",
+        "path": "https://github.com/rluengen/esphome-firmware/releases/download/heater-controller-v4.0.8/heater-controller.ota.bin",
+        "summary": "Give every Wi-Fi screen the icon footer and panel sizing",
+        "release_url": "https://github.com/rluengen/esphome-firmware/releases/tag/heater-controller-v4.0.8"
+      }
+    }
+  ],
+  "build_metadata": {
+    "esphome_version": "2026.10.2",
+    "esp_idf_version": "5.5.6",
+    "build_time": "2026-11-16 19:06:13 -0800",
+    "config_hash": 1286982360,
+    "git_sha": "09111cb",
+    "dirty": false,
+    "api_key_mode": "runtime"
+  }
+}
